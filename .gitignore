@@ -1,6 +1,8 @@
 data/
 results/
 
+model_init.hdf5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
