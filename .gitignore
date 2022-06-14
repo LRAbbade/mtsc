@@ -1,6 +1,9 @@
 data/
 results/
 
+drafts_per_file.json
+petr4_test.ipynb
+petr4_parser.py
 model_init.hdf5
 
 # Byte-compiled / optimized / DLL files
